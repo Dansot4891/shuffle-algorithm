@@ -16,8 +16,8 @@
 ------------------------------------------------------------
 ## 화면 구성
 <p align="center">
-   <img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/26a3244b-bf1e-41f1-81ad-fe7c2e79b002/3b022e6f-77b5-48ee-986f-a0e9e8554904/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-06-27_203622.png" align="center" width="40%">
-   <img src="[https://github.com/user-attachments/assets/4346a817-1fbf-4f66-b104-fbc1664d5626](https://prod-files-secure.s3.us-west-2.amazonaws.com/26a3244b-bf1e-41f1-81ad-fe7c2e79b002/e85b9396-c391-4074-bef5-852f93c58510/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-06-27_203541.png)" align="center" width="40%">
+   <img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/26a3244b-bf1e-41f1-81ad-fe7c2e79b002/3b022e6f-77b5-48ee-986f-a0e9e8554904/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-06-27_203622" align="center" width="40%">
+   <img src="[https://github.com/user-attachments/assets/4346a817-1fbf-4f66-b104-fbc1664d5626](https://prod-files-secure.s3.us-west-2.amazonaws.com/26a3244b-bf1e-41f1-81ad-fe7c2e79b002/e85b9396-c391-4074-bef5-852f93c58510/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-06-27_203541)" align="center" width="40%">
 </p>
 
 ------------------------------------------------------------
