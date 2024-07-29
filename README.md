@@ -1,16 +1,35 @@
-# algorithm_project
+## Card Shuffle Game
+![image](https://github.com/user-attachments/assets/b3aa5799-0338-46f6-8238-e086d923a900)
+------------------------------------------------------------
+## 개발 환경
+###### Flutter
+------------------------------------------------------------
+## 팀원 소개
+###### 가천대학교 금융수학과 임명우
+------------------------------------------------------------
+## 개발 기간
+###### 2023-06-15 ~ 2024-06-20
+------------------------------------------------------------
+## 프로젝트 소개
++ 사용자는 셔플 방식을 직접 선택할 수 있습니다.
++ 해당 셔플을 진행한 후 사용자에게 잠시 카드의 순서를 제공한 후에 사용자가 이를 기억하여 카드의 순서를 맞혀야하는 게임입니다.
+------------------------------------------------------------
+## 화면 구성
+<p align="center">
+   <img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/26a3244b-bf1e-41f1-81ad-fe7c2e79b002/3b022e6f-77b5-48ee-986f-a0e9e8554904/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-06-27_203622.png" align="center" width="40%">
+   <img src="[https://github.com/user-attachments/assets/4346a817-1fbf-4f66-b104-fbc1664d5626](https://prod-files-secure.s3.us-west-2.amazonaws.com/26a3244b-bf1e-41f1-81ad-fe7c2e79b002/e85b9396-c391-4074-bef5-852f93c58510/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-06-27_203541.png)" align="center" width="40%">
+</p>
 
-A new Flutter project.
+------------------------------------------------------------
+## 기능
+1. 알고리즘을 이용한 카드 셔플링
+   + 사용자는 섞는 셔플 알고리즘을 선택할 수 있습니다.
+2. 터치 이벤트를 이용한 카드 선택 및 순서 맞히기
+   + 사용자는 순서를 기억하여 카드 순서를 맞혀야하는 게임입니다.
+   + 사용자가 맞으면 카드가 계속 뒤집어진 채로 존재하고, 사용자가 틀리면 해당 카드가 1초가 보여진 뒤 다시 뒤집어집니다.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 특징
+1. 동기/비동기를 이용하여 카드가 셔플되는 과정을 확인 가능 및 카드 뒤집기 구현하였습니다.
+2. 다양한 셔플 알고리즘 구현하였습니다.
+3. 이미지를 미리 캐싱하여 카드 이미지가 빠르게 UI 상으로 보일 수 있도록 구현하였습니다.
+(이미지 크기로 인하여 카드를 뒤집을 때 로딩이 걸려서 화면을 들어갔을 때 미리 이미지를 캐싱)
